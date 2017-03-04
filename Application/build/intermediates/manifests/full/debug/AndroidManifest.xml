@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.org.cic.morsenser_example"
+    android:versionCode="3"
+    android:versionName="3.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:icon="@drawable/morsensor2_icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light" >
+        <service
+            android:name="tw.org.cic.bluetooth.BluetoothLeService"
+            android:enabled="true" />
+
+        <activity
+            android:name="tw.org.cic.control_activity.DeviceScanActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.IMUViewActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="tw.org.cic.control_activity.MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.THUViewActivity"
+            android:label="@string/title_activity_thuview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.ColorViewActivity"
+            android:label="@string/title_activity_color_view"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.PIRViewActivity"
+            android:label="@string/title_activity_pirview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.AlcoholViewActivity"
+            android:label="@string/title_activity_alcohol_view"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.SpO2ViewActivity"
+            android:label="@string/title_activity_sp_o2_view"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.MicViewActivity"
+            android:label="@string/title_activity_mic_view"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsenser_example.IMUViewPlusActivity"
+            android:label="@string/title_activity_imuview_plus" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.IRIViewActivity_2_1"
+            android:label="IRI Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.IRDViewActivity_2_1"
+            android:label="IRD Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.USDViewActivity_2_1"
+            android:label="USD Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.PressureActivity_2_1"
+            android:label="Pressure Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.COViewActivity_2_1"
+            android:label="CO Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.CO2ViewActivity_2_1"
+            android:label="CO2 Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="tw.org.cic.morsensor_example_3.PowerActivity_2_1"
+            android:label="Power Sensor"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

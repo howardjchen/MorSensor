@@ -1,0 +1,7 @@
+#Wed Mar 01 09:19:59 CST 2017
+base.0=C\:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_47f07ad9f400d8616a387d629c21bb03fee5f242
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_57764d0a2c1d934fef408f938639e3efe1812b46\\classes.dex
+base.1=C\:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_57764d0a2c1d934fef408f938639e3efe1812b46
+file.0=C\:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_47f07ad9f400d8616a387d629c21bb03fee5f242\\classes.dex

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_imuview_plus.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_imuview_plus.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_meter_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_meter_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_pirview.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_pirview.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_color_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_color_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_alcohol_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_alcohol_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sensor.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_sensor.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_thuview.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_thuview.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sp_o2_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\menu\\menu_sp_o2_view.xml"
+    }
+]

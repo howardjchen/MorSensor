@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_c90554f226a363e48fde7db933ada10ea77593da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wllai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-alpha1_e1e2974cf1e7755b3dddc653c95f1cbeda075335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6471b009309a5d51a5a2e5a0b0f490cbb525595a">
+        <dex dex="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5a068c87fbd9b16990010aa0c7bf076aefb69bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85aac664b743ec6c7a124bc31ce05610d1470ed9">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_801bca6cbd2ef2e347da1a8cfeff19806aad7502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_07dd17faf148e239d05eb54408af69d9fafc0574\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c6acc81b721f8ccf98b437a65826b79ee8844ba">
+        <dex dex="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4232d14a661c550ec7dcb5611527247598d6312b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9d5a9cf72dd416b0ba71d7341d273b46d1f6c74b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57764d0a2c1d934fef408f938639e3efe1812b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_37a6447480a16022bcddded6f80e78a051fc89a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_4bfcb809470b20dfce02a822b0548cca8003f9cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_bbc26d1e29abb7fb04c7a5a8a425d7ee3555fa6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\Train\10601_hackathon\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_23618ec33c9d4eed8a70a62b32467461d8bfb19e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="60207ff15a96e137e9adf81c506d41442b4ebaec">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor Example\MorSensor_Example 3.0.2 release 1051229\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_47f07ad9f400d8616a387d629c21bb03fee5f242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0278d21eba1e1648053a032717efbda0652fc357">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor IoT 10511\MorSensor_Example 3.0.2 release 1051212\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21c5a6d9d47478d70e58b1b206a09c956a952561\classes.dex" />
+    </item>
+
+</items>

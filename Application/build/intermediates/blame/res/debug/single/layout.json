@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_distance_view_2_1.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_distance_view_2_1.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alcohol_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_alcohol_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_power_view_2_1.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_power_view_2_1.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mic_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_mic_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_co2_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_co2_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pir_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_pir_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mic_view_2_1.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_mic_view_2_1.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sp_o2_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_sp_o2_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imu_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_imu_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_co_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_co_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_color_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_color_view.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thermal_view_2_1.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_thermal_view_2_1.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imuview_plus.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_imuview_plus.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pressure_view_2_1.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_pressure_view_2_1.xml"
+    },
+    {
+        "merged": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thu_view.xml",
+        "source": "C:\\_project\\MorSensor\\Android\\_MorSensor Example\\MorSensor_Example 3.0.2 release 1051229\\Application\\src\\main\\res\\layout\\activity_thu_view.xml"
+    }
+]

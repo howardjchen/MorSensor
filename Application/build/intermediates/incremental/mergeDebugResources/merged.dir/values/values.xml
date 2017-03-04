@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Dial"><attr format="reference" name="valueScale"/><attr format="reference" name="totalNotches"/><attr format="reference" name="scaleCenterValue"/><attr format="reference" name="scaleColor"/><attr format="reference" name="incrementPerLargeNotch"/><attr format="reference" name="incrementPerSmallNotch"/><attr format="reference" name="warningValue"/><attr format="reference" name="warningComment"/><attr format="reference" name="upperTitle"/><attr format="reference" name="lowerTitle"/><attr format="reference" name="unitTitle"/><attr format="reference" name="rangeTable"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MorSensor example</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="button_play">PLAY</string>
+    <string name="button_start">START</string>
+    <string name="button_write_data">Write</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="intro_message">
+        
+        
+            
+            This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
+            to transmit arbitrary data between devices.
+            
+        
+        
+    </string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_read_data">Read Data:</string>
+    <string name="label_state">State:</string>
+    <string name="label_write_data">Write Data:</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="no_data">No data</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="timer_zeros">0%</string>
+    <string name="times_counter">200</string>
+    <string name="title_activity_alcohol_view">Alcohol Sensor</string>
+    <string name="title_activity_color_view">Color Sensor</string>
+    <string name="title_activity_imuview_plus">IMU Plus Activity</string>
+    <string name="title_activity_main">MorSensor</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_mic_view">Mic Sensor</string>
+    <string name="title_activity_pirview">PIR Sensor</string>
+    <string name="title_activity_sp_o2_view">SpO2 Sensor</string>
+    <string name="title_activity_thuview">Temp Humi UV Sensor</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Button" parent="@android:style/Widget.Button">  
+        <item name="android:gravity">center_vertical|center_horizontal</item>  
+        <item name="android:textColor">#FFFFFFFF</item>  
+        <item name="android:shadowColor">#FF000000</item>  
+        <item name="android:shadowDx">0</item>  
+        <item name="android:shadowDy">-1</item>  
+        <item name="android:shadowRadius">0.2</item>  
+        <item name="android:textSize">16dip</item>  
+        <item name="android:textStyle">bold</item>  
+        <item name="android:background">@drawable/btn_black9</item>  
+        <item name="android:focusable">true</item>  
+        <item name="android:clickable">true</item>  
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
