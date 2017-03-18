@@ -7,6 +7,7 @@ import tw.org.cic.control_activity.MainActivity;
 import tw.org.cic.morsenser_example.AlcoholViewActivity;
 import tw.org.cic.morsenser_example.ColorViewActivity;
 import tw.org.cic.morsenser_example.IMUViewActivity;
+import tw.org.cic.morsenser_example.IMUViewPlusActivity;
 import tw.org.cic.morsenser_example.PIRViewActivity;
 import tw.org.cic.morsenser_example.SpO2ViewActivity;
 import tw.org.cic.morsenser_example.THUViewActivity;
@@ -22,7 +23,7 @@ import tw.org.cic.morsensor_example_3.USDViewActivity_2_1;
  */
 public class DataTransform {
     private static final String TAG = "DataTransform";
-    static float data[] = new float[9];
+    static float data[] = new float[12];
     static short RawData[] = new short[20];
 
     public static float[] getData() {
@@ -81,8 +82,13 @@ public class DataTransform {
         data[6] = convertTwoBytesToShortsigned(value[17], value[16]) / 3.41f / 100f; //Mag y
         data[8] = convertTwoBytesToShortsigned(value[19], value[18]) / 3.41f / -100f; //Mag z
 
-        IMUViewActivity.DisplayIMUData();
-//        IMUViewPlusActivity.DisplayIMUData();
+        data[9] = 1;
+        data[10] = 2;
+        data[11] = 3;
+
+
+//        IMUViewActivity.DisplayIMUData();
+          IMUViewPlusActivity.DisplayIMUData();
     }
 
     public static void TransformTempHumi(byte[] value) {

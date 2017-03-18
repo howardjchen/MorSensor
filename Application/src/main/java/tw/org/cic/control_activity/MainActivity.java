@@ -34,6 +34,7 @@ import tw.org.cic.dataManage.MorSensorCommand;
 import tw.org.cic.morsenser_example.AlcoholViewActivity;
 import tw.org.cic.morsenser_example.ColorViewActivity;
 import tw.org.cic.morsenser_example.IMUViewActivity;
+import tw.org.cic.morsenser_example.IMUViewPlusActivity;
 import tw.org.cic.morsenser_example.MicViewActivity;
 import tw.org.cic.morsenser_example.PIRViewActivity;
 import tw.org.cic.morsenser_example.R;
@@ -218,8 +219,9 @@ public class MainActivity extends Activity {
                     TempID = IMUID;
                     command = MorSensorCommand.GetSensorData(IMUID);
 
-                    intent.setClass(mMainActivity, IMUViewActivity.class);
-//                    intent.setClass(mMainActivity, IMUViewPlusActivity.class);
+//                    intent.setClass(mMainActivity, IMUViewActivity.class)
+                    intent.setClass(mMainActivity, IMUViewPlusActivity.class);
+
                     startActivity(intent);
                     break;
                 case R.id.btTH:

@@ -19,7 +19,7 @@ public class IMUViewPlusActivity extends Activity {
 
     private static Context context;
     static ImageView imgGyro;
-    static TextView tv_Angle, tv_GryoX, tv_GryoY, tv_GryoZ, tv_AccX, tv_AccY, tv_AccZ, tv_MagX, tv_MagY, tv_MagZ;
+    static TextView tv_Angle, tv_GryoX, tv_GryoY, tv_GryoZ, tv_AccX, tv_AccY, tv_AccZ, tv_MagX, tv_MagY, tv_MagZ, tv_x, tv_y, tv_z;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +40,9 @@ public class IMUViewPlusActivity extends Activity {
         tv_MagX = (TextView) findViewById(R.id.tv_MagX);
         tv_MagY = (TextView) findViewById(R.id.tv_MagY);
         tv_MagZ = (TextView) findViewById(R.id.tv_MagZ);
+        tv_x = (TextView) findViewById(R.id.tv_x);
+        tv_y = (TextView) findViewById(R.id.tv_y);
+        tv_z = (TextView) findViewById(R.id.tv_z);
     }
 
     @Override
@@ -73,7 +76,7 @@ public class IMUViewPlusActivity extends Activity {
 
     static boolean preMode = true, mode;
     static float Gyro, Acc = 0, shake;
-    static float data[] = new float[9];
+    static float data[] = new float[12];
 
     public static void DisplayIMUData() {
         data = DataTransform.getData();
@@ -145,6 +148,10 @@ public class IMUViewPlusActivity extends Activity {
         tv_MagX.setText("Mag X: " + (int) (data[6] * 1000) / 1000.0); //Mag x
         tv_MagY.setText("Mag Y: " + (int) (data[7] * 1000) / 1000.0); //Mag y
         tv_MagZ.setText("Mag Z: " + (int) (data[8] * 1000) / 1000.0); //Mag z
+
+        tv_x.setText(" " + (int) (data[9] * 1000) / 1000.0);
+        tv_y.setText(" " + (int) (data[10] * 1000) / 1000.0);
+        tv_z.setText(" " + (int) (data[11] * 1000) / 1000.0);
     }
 
     @Override

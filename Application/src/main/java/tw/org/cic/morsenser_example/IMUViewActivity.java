@@ -15,7 +15,7 @@ public class IMUViewActivity extends Activity {
     private static final String TAG = "IMUViewActivity";
     private static final boolean D = false;
 
-    static TextView tv_GryoX, tv_GryoY, tv_GryoZ, tv_AccX, tv_AccY, tv_AccZ, tv_MagX, tv_MagY, tv_MagZ;
+    static TextView tv_GryoX, tv_GryoY, tv_GryoZ, tv_AccX, tv_AccY, tv_AccZ, tv_MagX, tv_MagY, tv_MagZ, tv_x, tv_y, tv_z;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,9 +34,12 @@ public class IMUViewActivity extends Activity {
         tv_MagX = (TextView) findViewById(R.id.MagX);
         tv_MagY = (TextView) findViewById(R.id.MagY);
         tv_MagZ = (TextView) findViewById(R.id.MagZ);
+        tv_x    = (TextView) findViewById(R.id.tv_x);
+        tv_y    = (TextView) findViewById(R.id.tv_y);
+        tv_z    = (TextView) findViewById(R.id.tv_z);
     }
 
-    static float data[] = new float[9];
+    static float data[] = new float[12];
 
     public static void DisplayIMUData() {
         data = DataTransform.getData();
@@ -52,6 +55,7 @@ public class IMUViewActivity extends Activity {
         tv_MagX.setText(" " + (int) (data[6] * 1000) / 1000.0); //Mag x
         tv_MagY.setText(" " + (int) (data[7] * 1000) / 1000.0); //Mag y
         tv_MagZ.setText(" " + (int) (data[8] * 1000) / 1000.0); //Mag z
+
     }
 
     @Override
